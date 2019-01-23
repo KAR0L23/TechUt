@@ -1,7 +1,7 @@
-#Karol Tomczyk 250988
-#Projekt
+# Karol Tomczyk 250988
+# Projekt
 
-###Komendy
+### Komendy
 
 Wejsc do folderu z plikiem i podać komendy:
 
