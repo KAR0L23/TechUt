@@ -13,7 +13,7 @@ import org.springframework.test.context.transaction.TransactionConfiguration;
 import org.springframework.transaction.annotation.Transactional;
 
 import ug.ktomczyk.techut.zad02.domain.Address;
-import ug.ktomczyk.techut.zad02.domain.Bicycle;
+import ug.ktomczyk.techut.zad02.domain.Phone;
 import ug.ktomczyk.techut.zad02.domain.Producer;
 
 @RunWith(SpringJUnit4ClassRunner.class)
